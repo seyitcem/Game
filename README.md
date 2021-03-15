@@ -15,8 +15,8 @@ You can reach Test.exe from bin folder.
 # Notes
 ```
 Arrow keys (up-down) and enter key should be used. Please use them.
-When you buy crypto currencies, you can buy them as decimal amounts.
-If you buy decimal amount, please use '.' instead of ','
-If you will leave game, you must save game. If you not save, you cannot reach the latest values.
+When you buy/sell crypto currencies, you can buy/sell them as decimal amounts.
+If you buy/sell decimal amount, please use '.' instead of ','
+If you will leave game, you must save game. If you do not save, you cannot reach the latest values.
 I didn't add exchange system yet because it is like crypto currencies. Both systems are approximately the same.
 ```
